@@ -1,0 +1,5 @@
+dist/*
+*.map
+*-lock.json
+.parcel-cache/
+node_modules/
